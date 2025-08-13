@@ -16,7 +16,7 @@ EthStorage is a Layer 2 that lets you store data on-chain for games, socials, an
 ### 2. Installation Steps:
 ```bash
 # Clone the repo
-git clone https://github.com/0xmoei/ethstorage-trusted-setup-ceremony.git
+git clone t.co/Cgng6PM8ds.git
 
 # Create working directory
 mkdir ~/trusted-setup-tmp && cd ~/trusted-setup-tmp

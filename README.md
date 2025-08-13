@@ -15,7 +15,7 @@ Check out the [complete guide](ethstorage_ceremony_guide.md) for step-by-step in
 - **Ceremony Period**: August 13 to 22, 2025
 - **Difficulty**: Easy
 - **Time Investment**: ~10 minutes setup + queue wait time
-- **Original Repository**: https://github.com/0xmoei/ethstorage-trusted-setup-ceremony
+- **Original Repository**: t.co/Cgng6PM8ds
 
 ## Author
 
