@@ -15,7 +15,11 @@ Check out the [complete guide](ethstorage_ceremony_guide.md) for step-by-step in
 - **Ceremony Period**: August 13 to 22, 2025
 - **Difficulty**: Easy
 - **Time Investment**: ~10 minutes setup + queue wait time
-- **Original Repository**: t.co/Cgng6PM8ds
+- **Official Documentation**: https://blog.ethstorage.io/join-the-ethstorage-v1-trusted-setup-ceremony/
+
+## What is EthStorage?
+
+EthStorage is a modular and decentralized storage Layer 2 that offers programmable key-value storage powered by DA. It enables long-term DA solutions for Rollups and opens up new possibilities for fully on-chain applications like games, social networks, AI, etc.
 
 ## Author
 
@@ -23,4 +27,4 @@ Guide created by [@bank_of_btc](https://x.com/bank_of_btc)
 
 ---
 
-*This guide is designed to be human-readable and easy to follow for crypto enthusiasts wanting to contribute to the EthStorage ecosystem.*
+*This guide is designed to be human-readable and easy to follow for crypto enthusiasts wanting to contribute to the EthStorage ecosystem. Based on official EthStorage documentation.*
